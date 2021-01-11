@@ -1,0 +1,15 @@
+{% extends 'all-photos/base.html' %}
+{% block content %}
+<h1>GALLERY</h1>
+{% for photo_item in images %}
+<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+   
+    <p>{{photo.name}}</p>
+    <img src="{{photo_item.image.url}}" data-toggle="modal" class="img-responsive" alt="Image" style="max-width: 200px;">
+</div>
+{% empty %}
+<div class="row">
+    <h2 class="text-center">There is no Image yet</h2>
+</div>
+{%  endfor %}
+{% endblock %}
