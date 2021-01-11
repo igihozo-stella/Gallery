@@ -1,14 +1,13 @@
 # myGallery
 
-#### Author: [Dorcas Toto](https://github.com/DorcasToto)
+#### Author: [Igihozo Stella](https://github.com/igihozo-stella)
 
 
 ## Description
-A personal gallery application that you display your photos for others to see.
+A personal gallery application that allows the admin to display photos for viewers to see.
 
 ## Figma Design
 
-A link to my [figma design](https://www.figma.com/file/UNq2anH6uJd5N61DvW1J5M/Gallery?node-id=0%3A1)
 
 ## Setup and installations
 * Clone Project to your machine
@@ -17,9 +16,6 @@ A link to my [figma design](https://www.figma.com/file/UNq2anH6uJd5N61DvW1J5M/Ga
 * On your terminal run `python3.6 manage.py runserver`
 * Access the live site using the local host provided
 
-
-
-## Getting started
 
 ### Prerequisites
 * python3.6
