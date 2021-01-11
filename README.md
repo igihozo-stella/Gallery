@@ -17,7 +17,19 @@ A personal gallery application that allows the admin to display photos for viewe
 * Access the live site using the local host provided
 
 
-### Prerequisites
+### Perequisites
 * python3.6
 * virtual environment
 * pip
+
+## Built With
+
+* [Python3.6]
+* Django
+* Postgresql 
+* Boostrap
+* HTML
+
+### License
+
+* 2020| LICENSED UNDER  (license/MIT)
